@@ -1,4 +1,4 @@
-# Shipup Algorithm Challenge
+# Algorithm Challenge
 
 
 ## Guidelines
